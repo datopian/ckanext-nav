@@ -1,0 +1,4 @@
+include README.rst
+include LICENSE
+include requirements.txt
+recursive-include ckanext/nav *.html *.json *.js *.less *.css *.mo *.ico
