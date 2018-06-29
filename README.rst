@@ -5,28 +5,9 @@
 .. image:: https://travis-ci.org/ViderumGlobal/ckanext-nav.svg?branch=master
     :target: https://travis-ci.org/ViderumGlobal/ckanext-nav
 
+
 .. image:: https://coveralls.io/repos/ViderumGlobal/ckanext-nav/badge.svg
   :target: https://coveralls.io/r/ViderumGlobal/ckanext-nav
-
-.. image:: https://pypip.in/download/ckanext-nav/badge.svg
-    :target: https://pypi.python.org/pypi//ckanext-nav/
-    :alt: Downloads
-
-.. image:: https://pypip.in/version/ckanext-nav/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-nav/
-    :alt: Latest Version
-
-.. image:: https://pypip.in/py_versions/ckanext-nav/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-nav/
-    :alt: Supported Python versions
-
-.. image:: https://pypip.in/status/ckanext-nav/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-nav/
-    :alt: Development Status
-
-.. image:: https://pypip.in/license/ckanext-nav/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-nav/
-    :alt: License
 
 =============
 ckanext-nav
@@ -41,8 +22,7 @@ ckanext-nav
 Requirements
 ------------
 
-For example, you might want to mention here which versions of CKAN this
-extension works with.
+This extension works with CKAN <2.6.
 
 
 ------------
